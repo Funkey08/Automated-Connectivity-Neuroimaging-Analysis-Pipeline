@@ -90,12 +90,21 @@ python src/run.py
 ## 📄 References
 
 [1] Moreno-Agostino et al., 2021. Global trends in the prevalence and incidence of depression: a systematic review and meta-analysis. Journal of Affective Disorders 281:15 (p. 235-243). https://www.sciencedirect.com/science/article/pii/S0165032720331244   
+
 [2] Simmatis, Russo, et al., 2023. Technical and clinical considerations for electroencephalography-based biomarkers for major depressive disorder.” npj Mental Health Research (2023) 2:18 ; https://doi.org/10.1038/s44184-023-00038-7   
+
 [3] Sakkalis, 2011. Review of advanced techniques for the estimation of brain connectivity measured with EEG/MEG. Computers in Biology and Medicine 41:12(1110-1117). https://www.sciencedirect.com/science/article/pii/S0010482511001405    
+
 [4] Chiarion et al., 2023. Connectivity analysis in EEG data: a tutorial review of the state of the art and emerging trends. Bioengineering 10(3). https://www.mdpi.com/2306-5354/10/3/372    
+
 [5] Fingelkurts et a., 2007. Impaired functional connectivity at EEG alpha and theta frequency bands in major depression. Hum. Brain Map. 28:3 (247-261). https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.20275   
-[6] Olbrich et al., 2014. Functional connectivity in major depression: increased phase synchronization between frontal cortical EEG-source estimates. Psych. Res.: Neuroimaging. 222:1-2(91-99). https://www.sciencedirect.com/science/article/pii/S0925492714000523    
+
+[6] Olbrich et al., 2014. Functional connectivity in major depression: increased phase synchronization between frontal cortical EEG-source estimates. Psych. Res.: Neuroimaging. 222:1-2(91-99). https://www.sciencedirect.com/science/article/pii/S0925492714000523   
+ 
 [7] Miljevic et al., 2023. Alterations in EEG functional connectivity in individuals with depression: a systematic review. Journal of Affective Disorders. 328(287-302). https://www.sciencedirect.com/science/article/pii/S0165032723001465    
+
 [8] Sizemore et al., 2019. The importance of the whole: topological data analysis for the network neuroscientist. Network neuroscience. 3(3): 656-673. https://direct.mit.edu/netn/article/3/3/656/2178    
+
 [9] Chazal and Michel, 2021. An introduction to topological data analysis: fundamental and practical aspects for data scientists. Frontiers in artificial intelligence 4. https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.667963/full?ref=graphusergroup.com    
+
 [10] Xu et al., 2021. Topological data analysis as a new tool for EEG processing. Frontiers in neuroscience 15. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.761703/full 
